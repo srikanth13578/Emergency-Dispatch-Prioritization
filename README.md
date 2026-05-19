@@ -4,14 +4,6 @@ An interactive, GUI-based simulation designed to optimize emergency service disp
 
 ---
 
-## 👥 Authors
-* **Student 1:** (Your Name) — `1RV25MC052`
-* **Student 2:** (Teammate Name) — `1RV25MC053`
-* **Course:** Master of Computer Applications (MCA), Semester 2
-* **Subject:** Analysis & Design of Algorithms (ADA) - Experiential Learning Project
-
----
-
 ## 🚀 Core Features
 * **Multi-Criteria Prioritization:** Sorts service requests by **Priority Level** (Critical ➔ High ➔ Medium ➔ Low) and breaks ties using the lowest **Estimated Response Time**.
 * **Algorithmic Adaptability:** Switch seamlessly between three distinct algorithms to view execution speeds and structural step changes.
